@@ -4,7 +4,7 @@
   <title><![CDATA[Scratch your own itch]]></title>
   <link href="http://carlosmoutinho.github.com/atom.xml" rel="self"/>
   <link href="http://carlosmoutinho.github.com/"/>
-  <updated>2012-01-02T11:18:10+01:00</updated>
+  <updated>2012-01-02T11:18:54+01:00</updated>
   <id>http://carlosmoutinho.github.com/</id>
   <author>
     <name><![CDATA[Carlos Moutinho]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Initial post]]></title>
+    <link href="http://carlosmoutinho.github.com/blog/2012/01/02/initial-post/"/>
+    <updated>2012-01-02T11:14:00+01:00</updated>
+    <id>http://carlosmoutinho.github.com/blog/2012/01/02/initial-post</id>
+    <content type="html"><![CDATA[<p>This is <em>new</em> post on my <em>blog</em> to test the features.</p>
+]]></content>
+  </entry>
   
 </feed>
